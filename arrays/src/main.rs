@@ -9,4 +9,6 @@ fn main() {
     array[0] = 10;
 
     println!("{}", array[1]);
+
+    const testArr: [i8; 4] = [1, 1, 1, 1];
 }
